@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AURA AI STUDIO</title>
+<style>
+*{box-sizing:border-box}
+body{
+margin:0;background:#090909;color:white;
+font-family:Tahoma,Arial,sans-serif;
+}
+header{
+padding:22px;background:#111;
+border-bottom:1px solid #292929;
+display:flex;justify-content:space-between;
+align-items:center;
+}
+.logo{font-size:24px;font-weight:bold;color:#ff3030}
+.logo span{color:white}
+main{max-width:1000px;margin:35px auto;padding:20px}
+h1{font-size:28px}
+.subtitle{color:#999;line-height:2}
+.card{
+background:#151515;border:1px solid #292929;
+border-radius:15px;padding:22px;margin-top:22px;
+}
+label{display:block;margin:18px 0 10px}
+input,textarea,select{
+width:100%;padding:15px;border-radius:9px
